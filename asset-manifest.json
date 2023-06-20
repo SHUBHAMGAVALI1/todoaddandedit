@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/todoandedit/static/css/main.31d6cfe0.css",
+    "main.js": "/todoandedit/static/js/main.1a2fbf95.js",
+    "static/js/787.adda8031.chunk.js": "/todoandedit/static/js/787.adda8031.chunk.js",
+    "index.html": "/todoandedit/index.html",
+    "main.1a2fbf95.js.map": "/todoandedit/static/js/main.1a2fbf95.js.map",
+    "787.adda8031.chunk.js.map": "/todoandedit/static/js/787.adda8031.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.1a2fbf95.js"
+  ]
+}
